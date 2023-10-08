@@ -1,1 +1,2 @@
 FeatureOne textOne
+text second
